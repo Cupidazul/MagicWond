@@ -13,7 +13,7 @@ Business Edition license may be bought at https://magicwond.com .
 MagicWond Free Edition license (the "Standard License")
 -----------------------------------------------------------------
 To license the Free Edition of MagicWond (the "Standard License"), you must agree to the terms bellow:
-
+<pre>
 ##############################################################################
 ##############################################################################
 #                    "MagicWond Custom Artistic License"                     #
@@ -104,3 +104,4 @@ To license the Free Edition of MagicWond (the "Standard License"), you must agre
 # The End                                                                    #
 ##############################################################################
 ##############################################################################
+</pre>
